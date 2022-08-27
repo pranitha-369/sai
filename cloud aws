@@ -1,0 +1,7 @@
+question 1 : a company has a webside which provides downloadable historical files that campany should be available to all users. less cost effective limit the infrastructure, fastest response time
+options :
+aws s3 and cloud front
+aws lambda and amazon dynamo db
+application load balancer and amazon e2 auto scaling 
+amazon route 53 with internal application load balancer 
+
